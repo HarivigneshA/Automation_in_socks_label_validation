@@ -1,6 +1,6 @@
 # Automation_in_socks_label_validation 
 
-This is a project for socks card label validation where the socks card is validated comparing with the correct socks card whose coordinates are stored in the database. When the test socks card is compared with the correct socks card(master socks card) the software checks whether both test and master socks card mathches or not.
+This is a project for socks card label validation where the socks card is validated comparing with the correct socks card called **master socks card**, whose coordinates are stored in the database. When the test socks card is compared with the master socks car) the software checks whether both test and master socks card mathches or not.
 
 For comparing the test socks card with the master socks card, we first mark the coordinates of each feature(text,image) and store the coordinates in the database.
 
