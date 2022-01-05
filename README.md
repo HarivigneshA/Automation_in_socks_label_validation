@@ -25,4 +25,3 @@ Working Demo Video Link : <a href="https://drive.google.com/file/d/1jZevcWyvP8eg
 
 ### NOTE:
 Also we can extend this socks card validation to **many other product label validation.**
-
