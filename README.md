@@ -15,7 +15,7 @@ Then a test socks card before being validated is first detected from the image b
   
 If any one of the features is not matched with the corresponding feature of the master socks card then the test card is an invalid card and vice-versa.
 
-### Getting Started:
+## Getting Started:
 
 Download Tessaract file (mention tessaract.exe path in files appropriately): <a href = "https://sourceforge.net/projects/tesseract-ocr-alt/files/" >tessaract-ocr</a>
 </p>
