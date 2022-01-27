@@ -23,5 +23,5 @@ Training and Weights file : <a href="https://drive.google.com/drive/folders/1Agv
 </p>
 Working Demo Video Link : <a href="https://drive.google.com/file/d/1jZevcWyvP8egjOecXs6oD600hkJ1MNfk/view?usp=sharing">Video Link</a>
 
-### NOTE:
+## NOTE:
 Also we can extend this socks card validation to **many other product label validation.**
